@@ -1,0 +1,1 @@
+../../../real/symlinked/SKILL.md
