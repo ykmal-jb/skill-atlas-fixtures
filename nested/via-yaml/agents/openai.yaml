@@ -1,0 +1,5 @@
+interface:
+  display_name: "via-yaml"
+  short_description: "A skill declared only by agents/openai.yaml."
+policy:
+  allow_implicit_invocation: false
